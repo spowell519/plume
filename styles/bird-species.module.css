@@ -61,9 +61,16 @@
   color: rgba(55, 59, 100, 1);
 }
 
-.text {
-  padding-left: 0.5rem;
+.title {
+  color: var(--text-plume-main);
+  text-shadow: 2px 2px 2px black;
   font-size: 1.5rem;
+}
+
+.text {
+  color: var(--text-light-pink);
+  padding-left: 0.5rem;
+  font-size: 1rem;
   line-height: 2rem;
   margin: 0;
   font-weight: 700;

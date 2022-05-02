@@ -61,12 +61,12 @@ const Birds = (props) => {
         </div>
         
         <div className={cls("glass", styles.col2)}>
-          <div className={styles.iconWrapper}>
-            {/* <Image src="" width="24" height="24"/> */}
+          <div>
+            <h2 className={styles.title}>Location</h2>
             <p className={styles.text}>{props.bird.locName}</p>
           </div>
-          <div className={styles.iconWrapper}>
-            {/* <Image src="" width="24" height="24"/> */}
+          <div>
+            <h2 className={styles.title}>Scientific Name</h2>
             <p className={styles.text}>{props.bird.sciName}</p>
           </div>
         </div>
