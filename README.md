@@ -1,3 +1,5 @@
+Project Description: Plume is a birdwatching application which allows you to choose, locate, and observe birds in your local area.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
